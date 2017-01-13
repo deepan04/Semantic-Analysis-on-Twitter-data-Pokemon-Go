@@ -5,6 +5,6 @@
 - Followers and tweets of specific accounts were also used for our analysis
 
 # Technologies used:
-- Python NLTK and Regex library
+- Python NLTK and Regex function
 - Python Pandas and Matplotlib
-- Twitter API
+- Twitter API - tweepy
